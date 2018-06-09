@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenger</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+
+</resources>
